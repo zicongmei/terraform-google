@@ -6,7 +6,6 @@ variable "region" {
   description = "region"
 }
 
-
 variable "name" {
   description = "name"
 }
