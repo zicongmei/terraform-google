@@ -26,4 +26,5 @@ resource "google_gke_hub_feature_membership" "feature_member" {
       }
     }
   }
+  provider = google-beta
 }
